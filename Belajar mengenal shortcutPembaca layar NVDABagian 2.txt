@@ -1,0 +1,38 @@
+# Belajar Mengenal Laptop dengan NVDA: Navigasi Dasar Desktop dan Taskbar
+
+Panduan ini berisi langkah-langkah awal bagi pemula tunanetra untuk mengenali lingkungan sistem operasi Windows menggunakan pembaca layar NVDA setelah proses instalasi selesai.
+
+---
+
+## 1. Memahami Fokus dan Navigasi Dasar di Desktop
+* **Membuka Desktop:** Pastikan Anda berada di halaman utama layar dengan menekan kombinasi tombol **Windows + M** atau **Windows + D** pada keyboard untuk meminimalkan semua jendela aplikasi yang terbuka.
+* **Membaca Ikon:** Gunakan tombol panah pada keyboard (**Panah Atas**, **Panah Bawah**, **Panah Kiri**, **Panah Kanan**) untuk berpindah dari satu ikon aplikasi ke ikon aplikasi lainnya di desktop. NVDA akan secara otomatis membacakan nama ikon yang sedang disorot.
+* **Membuka Aplikasi:** Pilih ikon yang diinginkan menggunakan tombol panah, lalu tekan tombol **Enter** pada keyboard untuk membuka atau menjalankan aplikasi tersebut.
+
+---
+
+## 2. Menjelajahi Taskbar Menggunakan NVDA
+* **Berpindah ke Taskbar:** Tekan kombinasi tombol **Windows + T** untuk memindahkan fokus suara ke bilah tugas (*taskbar*) yang biasanya berada di bagian bawah layar.
+* **Menyusuri Program Terbuka:** Gunakan **Panah Kanan** atau **Panah Kiri** untuk mendengarkan daftar aplikasi yang sedang disematkan (*pinned*) atau sedang aktif di taskbar.
+* **Menjalankan Program dari Taskbar:** Saat fokus NVDA berada di salah satu nama aplikasi pada taskbar, tekan tombol **Enter** untuk membukanya.
+
+---
+
+## 3. Membuka dan Menggunakan Menu Start
+* **Membuka Start Menu:** Tekan tombol **Windows** pada keyboard untuk membuka menu utama Windows.
+* **Mencari Aplikasi:** Ketik langsung nama aplikasi yang ingin dicari (misalnya mengetik "Notepad" atau "Chrome") menggunakan keyboard. NVDA akan membacakan hasil pencarian secara *real-time*.
+* **Keluar dari Menu:** Jika ingin menutup menu Start tanpa membuka apa pun, tekan tombol **Escape** (*Esc*) pada pojok kiri atas keyboard untuk kembali ke posisi semula.
+
+---
+
+## 4. Cara Menutup Aplikasi yang Sedang Berjalan
+* **Menutup Jendela Aktif:** Tekan kombinasi tombol **Alt + F4** pada keyboard untuk menutup aplikasi atau jendela yang sedang aktif atau terbuka di layar. NVDA biasanya akan membacakan konfirmasi atau jendela aplikasi tersebut tertutup.
+* **Keluar dari Program:** Perintah **Alt + F4** juga berfungsi untuk keluar sepenuhnya dari program yang sedang berjalan atau menutup komputer dari layar utama desktop.
+
+---
+
+## 5. Perintah Cepat (Shortcut) Penting untuk Pemula
+* **NVDA + Control + T:** Membaca judul jendela atau aplikasi yang sedang aktif saat ini.
+* **Control (Ctrl):** Menekan tombol *Control* satu kali berfungsi untuk menghentikan sementara (*muffle/mute*) suara pembaca layar NVDA jika sedang berbicara.
+* **Tab / Shift + Tab:** Berpindah antar elemen interaktif (seperti tombol, kolom teks, atau kotak centang) di dalam sebuah jendela aplikasi.
+
