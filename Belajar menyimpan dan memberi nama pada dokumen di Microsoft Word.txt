@@ -1,0 +1,11 @@
+14. Menyimpan dan Menamai Dokumen di Microsoft Word
+Berikut adalah panduan lengkap dan terperinci untuk menyimpan dokumen baru serta memberi nama file pada Microsoft Word menggunakan pembaca layar NVDA di Windows 11:
+ * Membuka Menu Save (Penyimpanan):
+   * Saat dokumen sudah selesai diketik atau baru dibuat, tekan kombinasi tombol Control + S atau tekan tombol F12 untuk langsung membuka jendela penyimpanan (Save As).
+   * Tunggu sebentar hingga fokus suara NVDA membacakan kotak teks nama file atau area pemilihan folder penyimpanan.
+ * Mengetik Nama Dokumen:
+   * Ketik nama file yang diinginkan pada kotak teks nama berkas (misalnya Latihan Mengetik Pertama), pastikan tidak menggunakan karakter terlarang seperti garis miring atau tanda bintang.
+   * Tekan tombol Tab beberapa kali jika ingin memindahkan lokasi penyimpanan ke folder lain (seperti Documents atau folder khusus yang sudah dibuat sebelumnya).
+ * Menyelesaikan Proses Penyimpanan:
+   * Tekan tombol Enter setelah nama file diketik dan lokasinya sudah sesuai.
+   * NVDA akan mengonfirmasi bahwa dokumen telah tersimpan, dan judul jendela Microsoft Word di bagian atas akan berubah sesuai dengan nama file yang baru saja kamu berikan.
