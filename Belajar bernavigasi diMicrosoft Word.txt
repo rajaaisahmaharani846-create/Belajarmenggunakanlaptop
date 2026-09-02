@@ -1,0 +1,12 @@
+13. Langkah Awal Membuka dan Menavigasi Microsoft Word
+Berikut adalah panduan lengkap dan terperinci untuk membuka aplikasi pengolah kata Microsoft Word serta memahami navigasi dasar dokumen menggunakan pembaca layar NVDA pada perangkat Windows 11:
+ * Membuka Aplikasi Microsoft Word:
+   * Tekan tombol Windows pada keyboard untuk membuka menu Start.
+   * Ketik kata kunci Word atau Microsoft Word pada kotak pencarian yang muncul, lalu tekan Enter setelah NVDA membacakan nama aplikasi tersebut.
+   * Tunggu beberapa detik hingga jendela awal Microsoft Word terbuka dan fokus suara NVDA berada di pilihan Blank Document (Dokumen Kosong).
+   * Tekan Enter sekali lagi pada pilihan dokumen kosong untuk masuk ke halaman lembar kerja putih siap ketik.
+ * Memahami Area Kerja dan Navigasi Dasar Teks:
+   * Setelah lembar kerja terbuka, kursor pengetikan secara otomatis berada di baris pertama dokumen.
+   * Mulailah mengetik kalimat sederhana menggunakan keyboard, misalnya mengetik kata Halo dunia.
+   * Untuk memeriksa hasil ketikan per karakter, gunakan kombinasi tombol Panah Kanan atau Panah Kiri secara perlahan, di mana NVDA akan mengeja setiap huruf yang dilewati kursor.
+   * Untuk membaca ulang seluruh baris teks yang baru saja diketik tanpa menggeser kursor, tekan tombol Panah Atas lalu Panah Bawah, atau gunakan pintasan khusus NVDA yaitu Control + Panah Atas untuk membaca baris demi baris secara otomatis.
