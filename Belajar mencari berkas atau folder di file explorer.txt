@@ -1,0 +1,14 @@
+8. Cara Mencari Berkas atau Folder (Search)
+Berikut adalah panduan lengkap dan terperinci untuk mencari file atau dokumen yang terselip menggunakan pembaca layar NVDA, berlaku untuk pengguna laptop Lenovo maupun semua merek laptop Windows lainnya (seperti ASUS, HP, Acer, dan Dell):
+ * Opsi 1 (Menggunakan Kotak Pencarian File Explorer):
+   * Buka jendela File Explorer dengan menekan kombinasi tombol Windows + E pada keyboard Anda (tekan tombol Windows dan tahan, lalu tekan huruf E, kemudian lepaskan keduanya).
+   * Tekan tombol Control + F (tekan dan tahan tombol Ctrl, lalu tekan huruf F) untuk langsung memindahkan kursor fokus suara NVDA ke dalam kotak pencarian (Search Box). Sebagai alternatif, Anda bisa menekan tombol Tab berulang kali hingga NVDA membacakan "Search" atau "Cari".
+   * Ketik nama file atau kata kunci dari dokumen yang ingin dicari menggunakan papan ketik (keyboard).
+   * Tekan tombol Enter pada keyboard untuk memulai pemindaian, lalu tunggu sebentar hingga sistem Windows selesai mencari.
+   * Gunakan Panah Bawah atau Panah Atas pada keyboard untuk menelusuri daftar hasil file yang ditemukan dan dibacakan oleh pembaca layar NVDA.
+ * Opsi 2 (Pencarian Cepat dari This PC):
+   * Buka File Explorer dengan menekan Windows + E.
+   * Gunakan tombol Tab atau Panah Bawah di panel sebelah kiri untuk memilih direktori This PC (agar pencarian mencakup seluruh media penyimpanan laptop), lalu tekan Enter.
+   * Tekan Control + F untuk mengaktifkan kotak pencarian.
+   * Ketik nama file yang dicari, lalu tekan Enter.
+   * Setelah file yang dicari ditemukan dalam daftar hasil, tekan Enter untuk membukanya, atau tekan tombol Application (tombol bergambar menu garis-garis di sebelah kanan tombol Space atau Alt, atau gunakan kombinasi Shift + F10) jika ingin membuka menu pilihan seperti menyalin atau memindahkan file tersebut.
