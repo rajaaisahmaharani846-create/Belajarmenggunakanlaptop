@@ -1,0 +1,5 @@
+Mesin sintesis tambahan atau vocalizer (synthesizer add-on) yang dipasang pada pembaca layar NVDA berfungsi untuk menyediakan pilihan suara buatan yang lebih natural, bervariasi, dan berkualitas tinggi dibandingkan suara bawaan sistem. Berikut adalah fungsi utama penggunaannya:
+ * Meningkatkan Kejelasan Suara: Memberikan pelafalan kata, intonasi, dan artikulasi yang lebih jelas dan akurat, terutama saat membaca teks dalam bahasa tertentu seperti bahasa Indonesia.
+ * Personalisasi Pengalaman Mendengar: Memungkinkan pengguna memilih variasi karakter suara (pria atau wanita) serta karakteristik vokal yang paling nyaman didengar sesuai preferensi pribadi.
+ * Mengurangi Kelelahan Pendengaran: Suara yang lebih alami dan berkualitas tinggi membuat proses mendengarkan teks dalam durasi lama menjadi lebih nyaman dan tidak melelahkan telinga.
+ * Dukungan Multi-Bahasa: Mempermudah navigasi lintas bahasa karena beberapa vocalizer dirancang khusus untuk menguasai pengucapan kosakata asing atau bahasa lokal secara lancar.
