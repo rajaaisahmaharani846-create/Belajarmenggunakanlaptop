@@ -1,0 +1,24 @@
+---
+
+## 5. Cara Menyalin, Memindahkan, dan Menempel Berkas (Copy, Cut, Paste)
+
+Berikut adalah panduan langkah demi langkah yang sangat rinci agar perintah pembaca layar NVDA dan logika urutan kerjanya mudah dipahami oleh pemula:
+
+* **Opsi 1 (Khusus Pengguna Laptop Lenovo Windows 11):**
+  1. Buka jendela **File Explorer** dengan menekan kombinasi tombol **Windows + E** pada keyboard.
+  2. Gunakan **Panah Atas** atau **Panah Bawah** untuk mencari dan menyorot file atau dokumen yang ingin disalin atau dipindahkan. Pastikan NVDA telah membacakan nama file yang tepat.
+  3. **Langkah Menyalin/Memindahkan (Gunakan Salah Satu):**
+     * *Cara Cepat (Paling Direkomendasikan):* Tekan **Control + C** jika ingin menyalin file, atau tekan **Control + X** jika ingin memindahkan file. (Catatan: NVDA terkadang tidak bersuara saat tombol ini ditekan, tetapi sistem Windows sudah merekam file tersebut).
+     * *Cara Melalui Menu Konteks (Jika Ingin Memastikan):* Tekan tombol **Application** fisik yang terletak di bagian kanan bawah keyboard Lenovo Anda (biasanya di dekat tombol panah atau tombol *Alt* kanan). Setelah tombol *Application* ditekan, sebuah menu pilihan akan muncul di layar. Gunakan **Panah Bawah** sampai NVDA membacakan kata *"Copy"* (untuk menyalin) atau *"Cut"* (untuk memindahkan), lalu tekan **Enter**.
+  4. Pindah ke folder atau direktori tujuan tempat file akan diletakkan menggunakan navigasi panah dan tombol **Enter**.
+  5. **Langkah Menempelkan File (Paste):**
+     * Jika menggunakan *Cara Cepat* di awal, cukup tekan **Control + V** di folder tujuan.
+     * Jika menggunakan *Cara Menu Konteks*, tekan kembali tombol **Application** di sebelah kanan keyboard, gunakan **Panah Bawah** sampai NVDA membaca kata *"Paste"*, lalu tekan **Enter**. Tunggu beberapa detik hingga proses salin selesai.
+
+* **Opsi 2 (Laptop Windows Lainnya / Umum):**
+  1. Buka **File Explorer** dengan menekan **Windows + E**, lalu cari file yang dituju menggunakan tombol panah.
+  2. Tekan **Control + C** untuk menyalin atau **Control + X** untuk memindahkan file tersebut.
+  3. Pindah ke folder tujuan menggunakan panah dan **Enter**.
+  4. Tekan **Control + V** untuk menempelkan file di lokasi baru.
+  5. *Jika ingin menggunakan menu klik kanan secara manual:* Sorot file, tekan tombol **Application** di sisi kanan keyboard Anda, cari opsi **Copy** atau **Cut** menggunakan **Panah Bawah**, lalu tekan **Enter**. Pindah ke folder tujuan, tekan lagi tombol **Application**, pilih **Paste**, dan tekan **Enter**.
+
