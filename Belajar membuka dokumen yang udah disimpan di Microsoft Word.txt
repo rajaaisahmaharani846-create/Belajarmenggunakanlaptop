@@ -1,0 +1,9 @@
+15. Membuka Kembali Dokumen yang Telah Disimpan
+Berikut adalah panduan lengkap dan terperinci untuk mencari dan membuka kembali dokumen Microsoft Word yang sudah pernah disimpan sebelumnya menggunakan bantuan pembaca layar NVDA pada sistem Windows 11:
+ * Mencari Dokumen Lewat File Explorer:
+   * Buka jendela File Explorer dengan menekan kombinasi tombol Windows + E pada keyboard.
+   * Gunakan tombol Tab atau Panah Bawah untuk masuk ke folder tempat dokumen tersebut disimpan (misalnya di dalam folder Documents).
+   * Ketik beberapa huruf awal dari nama file yang dicari untuk mempercepat proses pencarian, atau gunakan tombol panah untuk menelusuri daftar file satu per satu.
+ * Membuka Dokumen:
+   * Setelah fokus suara NVDA berada tepat di atas nama file dokumen Word yang dimaksud, tekan tombol Enter pada keyboard.
+   * Tunggu beberapa detik hingga aplikasi Microsoft Word terbuka penuh dan kursor suara NVDA berada di dalam isi dokumen siap dibaca atau disunting kembali.
