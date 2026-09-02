@@ -1,0 +1,14 @@
+17. Cara Mengatur Perataan Teks (Alignment)
+Berikut adalah panduan lengkap dan terperinci untuk meratakan posisi teks di Microsoft Word—mulai dari rata kiri, rata tengah, rata kanan, hingga rata kiri-kanan (justified)—menggunakan kombinasi tombol cepat (shortcut keys) dan bantuan pembaca layar NVDA:
+ * Membuat Teks Rata Kiri (Left Alignment):
+   * Letakkan kursor pada paragraf atau blok kalimat yang ingin diatur posisinya.
+   * Tekan kombinasi tombol Control + L untuk memindahkan perataan teks ke sisi kiri lembar kerja.
+ * Membuat Teks Berada di Tengah (Center Alignment):
+   * Sorot bagian teks atau judul yang ingin diposisikan tepat di tengah halaman.
+   * Tekan kombinasi tombol Control + E untuk menggeser perataan teks ke bagian tengah.
+ * Membuat Teks Rata Kanan (Right Alignment):
+   * Letakkan kursor pada paragraf yang memerlukan perataan di sisi kanan (biasanya digunakan untuk penulisan tanggal atau tempat).
+   * Tekan kombinasi tombol Control + R untuk memindahkan perataan teks ke sisi kanan.
+ * Membuat Teks Rata Kiri dan Kanan (Justified Alignment):
+   * Blok seluruh isi paragraf bacaan agar tepi kiri dan kanan terlihat lurus dan rapi.
+   * Tekan kombinasi tombol Control + J untuk mengaktifkan format perataan penuh rata kiri-kanan.
