@@ -1,0 +1,11 @@
+16. Menggunakan Pintasan Format Teks Dasar (Bold, Italic, Underline)
+Berikut adalah panduan lengkap dan terperinci untuk mempertebal, memiringkan, atau memberi garis bawah pada teks di Microsoft Word menggunakan kombinasi tombol cepat (shortcut keys) dan bantuan pembaca layar NVDA:
+ * Membuat Teks Menjadi Tebal (Bold):
+   * Letakkan kursor pada awal kata atau blok teks yang ingin ditebalkan menggunakan tombol panah sambil menahan tombol Shift.
+   * Tekan kombinasi tombol Control + B untuk mengaktifkan format tebal, di mana NVDA biasanya akan membacakan status format teks aktif.
+ * Membuat Teks Menjadi Miring (Italic):
+   * Blok kata atau kalimat yang ingin dimiringkan dengan menahan Shift dan menggunakan tombol Panah.
+   * Tekan kombinasi tombol Control + I untuk mengubah format teks menjadi miring.
+ * Memberikan Garis Bawah pada Teks (Underline):
+   * Sorot atau blok bagian teks yang memerlukan garis bawah.
+   * Tekan kombinasi tombol Control + U untuk menambahkan garis bawah pada teks tersebut.
