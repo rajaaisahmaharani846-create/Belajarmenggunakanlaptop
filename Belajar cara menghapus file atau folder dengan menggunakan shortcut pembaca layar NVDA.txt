@@ -1,0 +1,18 @@
+---
+
+## 6. Cara Menghapus Berkas atau Folder (*Delete*)
+
+Berikut adalah panduan lengkap dan terperinci untuk menghapus file atau dokumen yang sudah tidak terpakai menggunakan pembaca layar NVDA, yang berlaku baik untuk pengguna laptop Lenovo Windows 11 maupun semua merek laptop Windows lainnya (seperti ASUS, HP, Acer, dan Dell):
+
+* **Opsi 1 (Khusus Pengguna Laptop Lenovo Windows 11):**
+  1. Buka **File Explorer** dengan menekan kombinasi tombol **Windows + E** pada keyboard.
+  2. Gunakan **Panah Atas** atau **Panah Bawah** untuk menyorot file atau folder yang ingin dihapus. Pastikan NVDA membacakan nama file yang benar agar tidak salah menghapus data penting.
+  3. Tekan tombol **Delete** pada keyboard laptop Lenovo Anda (biasanya terletak di bagian kanan atas dekat tombol *Backspace* atau *Power*, tergantung tata letak model IdeaPad atau ThinkPad).
+  4. **Umpan Balik dan Konfirmasi:** Kotak dialog sistem akan muncul dan NVDA akan membacakan peringatan penghapusan (seperti *"Delete file"* atau *"Move to Recycle Bin"*).
+  5. Tekan tombol **Enter** untuk mengonfirmasi pilihan *Yes*, sehingga file berhasil dipindahkan ke tempat sampah (*Recycle Bin*).
+
+* **Opsi 2 (Untuk Semua Merek Laptop Windows / Umum - ASUS, HP, Acer, Dell, dll.):**
+  1. Buka **File Explorer** dengan menekan **Windows + E**, lalu gunakan tombol panah untuk memilih file atau folder yang ingin dibersihkan.
+  2. Tekan tombol **Delete** pada keyboard laptop Anda. *(Catatan: Letak tombol Delete pada setiap merek laptop bisa berbeda-beda; pada beberapa merek HP atau ASUS, tombol ini mungkin berada di baris paling atas atau memerlukan kombinasi Fn jika berbagi fungsi dengan tombol lain).*
+  3. Jika pembaca layar NVDA membacakan jendela dialog konfirmasi sistem, tekan **Enter** untuk menyelesaikan proses penghapusan file.
+
