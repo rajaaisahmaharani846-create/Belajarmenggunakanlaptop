@@ -1,0 +1,34 @@
+# Panduan Dasar Penggunaan Laptop Baru untuk Pemula
+
+Panduan ini berisi langkah-langkah paling awal dan fundamental bagi pemula yang baru pertama kali memegang serta mengoperasikan komputer jinjing atau laptop, mulai dari pengenalan fisik hingga navigasi sistem dasar.
+
+---
+
+## 1. Mengenal Bagian Fisik dan Tombol Utama
+* **Tombol Daya (*Power Button*):** Cari tombol untuk menyalakan atau mematikan laptop (biasanya terletak di pojok atas keyboard atau di sisi samping bodi).
+* **Papan Tik (*Keyboard*):** Kenali area tombol huruf, angka, tombol fungsi (F1–F12), serta tombol khusus seperti *Enter*, *Backspace*, dan *Spacebar*.
+* **Bantalan Sentuh (*Touchpad*):** Area sensitif sentuhan di bawah keyboard yang berfungsi sebagai pengganti tetikus (*mouse*) untuk menggerakkan kursor di layar.
+
+---
+
+## 2. Cara Menyalakan dan Mematikan Laptop dengan Benar
+* **Menyalakan:** Tekan tombol *Power* satu kali, lalu tunggu beberapa saat hingga layar menampilkan jendela utama atau halaman masuk (*login*).
+* **Mematikan (*Shut Down*):** 
+  1. Klik ikon menu utama atau tombol logo Windows di pojok kiri bawah layar.
+  2. Pilih ikon daya (*Power*).
+  3. Klik opsi **Shut Down** untuk mematikan perangkat dengan aman, dan pastikan lampu indikator benar-benar padam.
+
+---
+
+## 3. Dasar Penggunaan Touchpad (Pengganti Mouse)
+* **Menggeser Kursor:** Letakkan satu jari di atas *touchpad* lalu geser ke arah yang diinginkan untuk memindahkan panah kursor di layar.
+* **Klik Kiri (Memilih):** Ketuk (*tap*) *touchpad* satu kali dengan satu jari (atau tekan bagian bawah kiri *touchpad*) untuk membuka aplikasi atau memilih menu.
+* **Klik Kanan (Menu Tambahan):** Ketuk menggunakan dua jari secara bersamaan pada permukaan *touchpad* untuk memunculkan menu pilihan lanjutan.
+* **Menggulir Halaman (*Scrolling*):** Tempelkan dua jari pada *touchpad* lalu geser secara bersamaan ke atas atau ke bawah untuk menggulir halaman dokumen atau situs web.
+
+---
+
+## 4. Pengenalan Tampilan Utama (Desktop)
+* **Layar Desktop:** Tampilan pertama yang muncul setelah laptop menyala dan siap digunakan, berisi kumpulan ikon pintasan aplikasi.
+* **Taskbar:** Bilah panjang yang biasanya terletak di bagian bawah layar untuk melihat aplikasi yang sedang aktif, menyematkan program favorit, serta melihat informasi waktu dan baterai.
+
