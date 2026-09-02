@@ -1,0 +1,12 @@
+7. Cara Mengembalikan Berkas dari Recycle Bin (Restore)
+Berikut adalah panduan lengkap dan terperinci untuk mengembalikan file atau folder yang terlanjur terhapus agar kembali ke tempat semula menggunakan pembaca layar NVDA, berlaku untuk pengguna laptop Lenovo maupun semua merek laptop Windows lainnya (seperti ASUS, HP, Acer, dan Dell):
+ * Opsi 1 (Membuka Recycle Bin melalui File Explorer):
+   * Buka jendela File Explorer dengan menekan kombinasi tombol Windows + E pada keyboard Anda.
+   * Gunakan tombol Tab atau navigasi panel kiri untuk mencari direktori This PC, atau tekan Alt + D lalu ketikkan Recycle Bin dan tekan Enter. (Cara paling mudah dan cepat: tekan tombol Windows + R, ketik shell:RecycleBinFolder, lalu tekan Enter).
+   * Setelah jendela Recycle Bin terbuka, NVDA akan membacakan daftar file atau folder yang pernah dihapus sebelumnya.
+   * Gunakan Panah Atas atau Panah Bawah untuk menelusuri daftar dan menemukan file yang ingin Anda selamatkan. Pastikan NVDA membacakan nama file yang tepat.
+ * Opsi 2 (Mengembalikan File ke Folder Asal):
+   * Setelah file yang ingin dikembalikan di dalam Recycle Bin tersorot, tekan tombol Application di sisi kanan keyboard Anda (atau gunakan kombinasi Shift + F10) untuk membuka menu pilihan konteks.
+   * Gunakan Panah Bawah secara perlahan hingga NVDA membacakan opsi Restore (Pulihkan), lalu tekan Enter.
+   * File tersebut secara otomatis akan dikembalikan oleh sistem Windows ke folder asal tempat ia disimpan sebelum dihapus sebelumnya.
+     (Catatan Tambahan: Di dalam jendela Recycle Bin, Anda juga bisa menekan tombol Delete pada file yang dipilih jika ingin menghapusnya secara permanen dari laptop, atau menekan Control + A lalu Enter jika ingin mengosongkan seluruh isi tempat sampah).
