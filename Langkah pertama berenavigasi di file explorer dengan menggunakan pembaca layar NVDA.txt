@@ -1,0 +1,46 @@
+# Belajar Mengenal Laptop dengan NVDA: Menggunakan File Explorer untuk Mengelola Berkas
+
+Panduan ini berisi langkah-langkah dasar bagi pemula tunanetra untuk bernavigasi, mencari, serta mengelola berkas dan folder di dalam sistem operasi Windows menggunakan pembaca layar NVDA.
+
+---
+
+## 1. Membuka File Explorer
+* **Jalan Pintas Utama:** Tekan kombinasi tombol **Windows + E** pada keyboard untuk membuka jendela **File Explorer** (aplikasi pengelola berkas).
+* **Umpan Balik NVDA:** NVDA akan membacakan judul jendela, biasanya dengan ucapan *"File Explorer"* atau nama direktori tempat Anda berada saat ini (misalnya *"Quick access"* atau *"This PC"*).
+
+---
+
+## 2. Navigasi Dasar di Dalam File Explorer
+* **Berpindah Antar Elemen (Panel):** Tekan tombol **Tab** atau **Shift + Tab** untuk berpindah fokus utama antara panel sisi kiri (pohon direktori/folder cepat) dan daftar isi berkas di sebelah kanan.
+* **Bergerak dalam Daftar Berkas:** Gunakan **Panah Atas** dan **Panah Bawah** untuk mendengarkan satu per satu nama file atau folder yang ada di dalam direktori tersebut.
+* **Masuk ke Folder:** Saat fokus berada pada sebuah folder, tekan tombol **Enter** untuk membuka atau masuk ke dalam folder tersebut.
+* **Kembali ke Folder Sebelumnya:** Tekan kombinasi tombol **Alt + Panah Kiri** untuk kembali (*go back*) ke direktori sebelumnya.
+
+---
+
+## 3. Mencari Berkas atau Dokumen
+* **Fokus ke Kolom Pencarian:** Tekan kombinasi tombol **Control + F** (atau **Ctrl + E**) untuk langsung memindahkan kursor suara ke kotak pencarian (*Search*).
+* **Mengetik Kata Kunci:** Ketik nama file atau dokumen yang ingin dicari, lalu tekan **Enter**.
+* **Mendengarkan Hasil:** Gunakan tombol panah untuk menyusuri daftar file yang ditemukan oleh sistem Windows, dan NVDA akan membacakan nama berkas yang cocok.
+
+---
+
+## 4. Cara Menyalin, Memindahkan, dan Menempel Berkas (Salin, Tempel, Hapus)
+Anda dapat menggunakan salah satu dari dua cara berikut sesuai kenyamanan Anda (menggunakan tombol pintas *keyboard* atau melalui menu konteks):
+
+### Opsi A: Menggunakan Tombol Pintas (*Keyboard Shortcut*)
+* **Menyalin File (Copy):** Pilih file yang ingin disalin menggunakan tombol panah, lalu tekan **Control + C**.
+* **Memindahkan File (Cut):** Pilih file, lalu tekan **Control + X** jika ingin memindahkan lokasinya.
+* **Menempel File (Paste):** Masuk ke folder tujuan yang diinginkan, lalu tekan **Control + V** untuk meletakkan file yang telah disalin atau dipotong.
+
+### Opsi B: Menggunakan Menu Konteks (*Applications Key / Shift + F10*)
+* **Membuka Menu Klik Kanan:** Pilih file yang dituju, lalu tekan tombol **Applications** pada keyboard (atau kombinasi **Shift + F10** jika keyboard tidak memiliki tombol khusus tersebut).
+* **Memilih Opsi:** Gunakan **Panah Bawah** untuk mencari pilihan **Copy** atau **Cut**, lalu tekan **Enter**.
+* **Menempel File:** Pindah ke folder tujuan, buka kembali menu konteks menggunakan tombol **Applications** atau **Shift + F10**, cari opsi **Paste**, lalu tekan **Enter**.
+
+---
+
+## 5. Menghapus Berkas
+* **Proses Penghapusan:** Pilih file atau folder yang ingin dihapus, lalu tekan tombol **Delete** pada keyboard.
+* **Konfirmasi:** Jika muncul jendela peringatan sistem atau kotak dialog, tekan **Enter** atau konfirmasi opsi **Yes** untuk memastikan file berhasil dikirim ke tempat sampah (*Recycle Bin*).
+
