@@ -1,0 +1,11 @@
+9. Cara Membuat Berkas Terkompresi (Zip File)
+Berikut adalah panduan lengkap dan terperinci untuk menggabungkan beberapa file atau folder menjadi satu wadah terkompresi berukuran lebih kecil menggunakan pembaca layar NVDA, berlaku untuk pengguna laptop Lenovo maupun semua merek laptop Windows lainnya (seperti ASUS, HP, Acer, dan Dell):
+ * Opsi 1 (Menggunakan Menu Bawaan Windows / Send to Compressed Folder):
+   * Buka jendela File Explorer dengan menekan kombinasi tombol Windows + E pada keyboard Anda (tekan tombol Windows dan tahan, lalu tekan huruf E, kemudian lepaskan keduanya).
+   * Cari dan sorot file atau folder yang ingin dijadikan satu ke dalam bentuk ZIP menggunakan tombol Panah Atas atau Panah Bawah. (Catatan: Jika ingin memilih lebih dari satu file, tahan tombol Control sambil menekan tombol panah, lalu tekan Spasi pada setiap file yang ingin dipilih).
+   * Setelah file atau folder yang diinginkan tersorot, tekan tombol Application di sisi kanan keyboard Anda (atau gunakan kombinasi Shift + F10) untuk membuka menu pilihan konteks.
+   * Gunakan tombol Panah Bawah secara perlahan hingga NVDA membacakan opsi Compress to ZIP file (atau pada beberapa versi Windows lama berada di dalam submenu Send to lalu pilih Compressed (zipped) folder), kemudian tekan Enter.
+   * Windows akan langsung membuat file arsip baru di folder yang sama. Ketik nama baru untuk file ZIP tersebut jika diinginkan, lalu tekan Enter untuk menyimpan.
+ * Opsi 2 (Mengekstrak atau Membuka Kembali File ZIP):
+   * Cari file berformat ZIP yang ingin dibuka menggunakan tombol panah di File Explorer.
+   * Tekan tombol Enter untuk masuk ke dalam file ZIP layaknya sebuah folder biasa, atau tekan tombol Application (atau Shift + F10) lalu pilih opsi Extract All (Ekstrak Semua) dan tekan Enter untuk mengeluarkan seluruh isi file ke folder biasa agar bisa diedit kembali.
