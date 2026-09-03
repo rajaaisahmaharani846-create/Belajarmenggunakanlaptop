@@ -1,0 +1,11 @@
+18. Menyalin, Memindahkan, dan Menempel Teks (Copy, Cut, Paste)
+Berikut adalah panduan lengkap dan terperinci untuk menduplikasi, memindahkan, serta menempelkan kembali teks di dalam dokumen Microsoft Word menggunakan kombinasi tombol cepat (shortcut keys) dan pembaca layar NVDA:
+ * Menyalin Teks (Copy):
+   * Blok kata atau kalimat yang ingin disalin dengan menahan tombol Shift sambil menekan tombol Panah.
+   * Tekan kombinasi tombol Control + C untuk menyalin teks tersebut ke dalam memori sementara (clipboard).
+ * Memindahkan Teks (Cut):
+   * Sorot bagian teks yang ingin dipindahkan posisinya ke tempat lain.
+   * Tekan kombinasi tombol Control + X untuk mengangkat teks tersebut dari posisi aslinya.
+ * Menempelkan Teks (Paste):
+   * Arahkan kursor ke lokasi baru tempat teks akan diletakkan menggunakan tombol Panah.
+   * Tekan kombinasi tombol Control + V untuk memunculkan kembali teks yang sebelumnya telah disalin atau dipindahkan.
