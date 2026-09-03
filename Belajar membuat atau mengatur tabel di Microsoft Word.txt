@@ -1,0 +1,12 @@
+23. Membuat dan Mengatur Tabel (Tables)
+Berikut adalah panduan lengkap dan terperinci untuk menyisipkan serta menavigasi tabel di dalam dokumen Microsoft Word menggunakan kombinasi tombol cepat dan bantuan pembaca layar NVDA:
+ * Menyisipkan Tabel Baru:
+   * Tekan tombol Alt pada keyboard untuk membuka menu utama.
+   * Tekan huruf N untuk masuk ke tab Insert (Sisipkan).
+   * Tekan huruf T untuk membuka opsi tabel, lalu tekan I untuk memilih Insert Table.
+   * Di kotak dialog yang muncul, ketik jumlah kolom pada kotak pertama, lalu tekan Tab untuk berpindah ke kotak baris dan ketik jumlah baris yang diinginkan. Tekan Enter untuk membuat tabel.
+ * Menavigasi Antar Sel Menggunakan NVDA:
+   * Gunakan tombol Tab untuk berpindah maju ke sel atau kolom sebelah kanan.
+   * Gunakan kombinasi Shift + Tab untuk berpindah mundur ke sel atau kolom sebelah kiri.
+   * Gunakan tombol Panah Atas dan Panah Bawah untuk berpindah baris ke atas atau ke bawah. NVDA akan membacakan isi sel beserta posisi kolom dan barisnya secara otomatis.
+8
