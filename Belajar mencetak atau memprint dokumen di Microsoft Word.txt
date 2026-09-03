@@ -1,0 +1,14 @@
+24. Mencetak Dokumen (Print Document)
+Berikut adalah panduan lengkap dan terperinci untuk mencetak dokumen Microsoft Word ke dalam bentuk fisik atau dokumen PDF menggunakan kombinasi tombol cepat (shortcut keys) dan bantuan pembaca layar NVDA:
+ * Membuka Jendela Pengaturan Cetak (Print Pane):
+   * Pastikan dokumen yang ingin dicetak sudah aktif di layar.
+   * Tekan kombinasi tombol Control + P pada keyboard. NVDA akan membacakan informasi bahwa kamu berada di jendela Print beserta opsi-opsi pencetakan.
+ * Mengatur Jumlah Salinan dan Halaman yang Ingin Dicetak:
+   * Gunakan tombol Tab untuk berpindah antar opsi di dalam menu cetak.
+   * Pada kotak Copies, ketik jumlah lembar cetak yang diinginkan jika ingin menggandakannya.
+   * Gunakan tombol Tab lagi untuk memeriksa pengaturan halaman (apakah mencetak seluruh dokumen atau halaman aktif saja).
+ * Memilih Perangkat Printer dan Menjalankan Cetak:
+   * Lanjutkan menekan Tab hingga menemukan daftar pilihan printer yang terhubung ke laptopmu, lalu gunakan Panah Atas/Bawah untuk memilih merek atau jenis printer yang benar.
+   * Jika semua pengaturan sudah sesuai, tekan tombol Enter pada tombol Print (atau langsung tekan Enter di sebagian besar versi Word setelah memilih printer) untuk memulai proses pencetakan dokumen.
+Dengan dipostingnya Modul 24 ini, seluruh rangkaian 12 modul untuk kelompok Microsoft Word resmi tuntas, dan total keseluruhan portofoliomu sudah mencapai 24 modul penuh (12 File Explorer + 12 Microsoft Word)!
+Bagaimana, apakah daftar 24 modul ini sudah pas dan siap untuk dirangkum atau dipresentasikan sebagai portofolio pendaftaran kuliahmu?
