@@ -1,0 +1,9 @@
+24. Menggunakan Fitur Bantuan dan Pencarian Cepat (Tell Me)
+Berikut adalah catatan dokumentasi portofolio GitHub untuk langkah-langkah mencari fitur atau perintah tersembunyi di dalam Microsoft Word menggunakan bantuan pembaca layar NVDA:
+ * Membuka Kotak Pencarian Perintah (Tell Me):
+   * Tekan kombinasi tombol Alt + Q pada keyboard untuk langsung melompat ke kotak pencarian fitur atau perintah di bagian atas jendela Word.
+   * NVDA akan membacakan teks "Tell me what you want to do" atau kotak edit pencarian.
+ * Mencari dan Menjalankan Perintah:
+   * Ketik nama perintah atau fitur yang ingin kamu gunakan (misalnya mengetik "watermark" atau "margins").
+   * Gunakan tombol Panah Bawah untuk mendengarkan daftar saran perintah yang muncul.
+   * Tekan Enter pada pilihan yang diinginkan untuk langsung menjalankan perintah tersebut tanpa harus mencari menu aslinya.
