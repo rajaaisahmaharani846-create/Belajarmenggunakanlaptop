@@ -1,0 +1,15 @@
+19. Memeriksa Ejaan dan Tata Bahasa Dasar (Spell Check) serta Solusi Tombol Fungsi
+Berikut adalah panduan lengkap dan terperinci untuk memeriksa kesalahan penulisan kata atau tata bahasa di dalam dokumen Microsoft Word menggunakan bantuan pembaca layar NVDA, lengkap dengan solusi jika tombol fungsi di laptop tidak merespons:
+ * Menjalankan Pemeriksaan Ejaan Utama:
+   * Setelah selesai mengetik isi dokumen, tekan tombol F7 pada keyboard untuk membuka panel pemeriksaan ejaan dan tata bahasa (Spelling & Grammar).
+   * Catatan Penting untuk Perangkat Keras: Jika tombol F7 saja tidak memberikan respons pada laptopmu (karena tombol fungsi dikunci untuk pengaturan volume atau kecerahan layar), tekan kombinasi Fn + F7 secara bersamaan.
+   * Tunggu sebentar hingga fokus suara NVDA membacakan kata yang dianggap keliru atau memberikan saran perbaikan kata yang benar.
+ * Alternatif Melalui Menu Ribbon (Pita Perintah):
+   Jika ingin menghindari penggunaan tombol fungsi fisik, kamu bisa mengaksesnya lewat menu navigasi:
+   * Tekan tombol Alt pada keyboard untuk mengaktifkan fokus ke menu utama di bagian atas.
+   * Tekan huruf R untuk membuka tab Review (Tinjau).
+   * Gunakan tombol Tab untuk mencari tombol Spelling & Grammar, lalu tekan Enter.
+ * Memilih dan Menerapkan Koreksi:
+   * Gunakan tombol Panah Bawah atau Panah Atas di dalam daftar saran perbaikan untuk mendengarkan pilihan kata yang disediakan oleh Microsoft Word.
+   * Tekan Enter pada pilihan kata yang sesuai untuk menggantikan kata yang salah secara otomatis.
+   * Jika kata tersebut sebenarnya sudah benar (misalnya nama panggilan atau istilah asing), tekan tombol Tab hingga menemukan pilihan Ignore (Abaikan), lalu tekan Enter agar Word tidak menandainya lagi sebagai kesalahan.
