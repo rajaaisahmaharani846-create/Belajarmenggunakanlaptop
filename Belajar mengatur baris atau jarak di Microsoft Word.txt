@@ -1,0 +1,11 @@
+20. Mengatur Jarak Spasi Antar Baris dan Paragraf
+Berikut adalah panduan lengkap dan terperinci untuk mengatur jarak spasi atau jarak antar baris di dalam dokumen Microsoft Word menggunakan kombinasi tombol cepat (shortcut keys) dan bantuan pembaca layar NVDA:
+ * Mengatur Spasi Tunggal (1 Baris):
+   * Blok paragraf atau kalimat yang ingin diatur jarak spasinya menggunakan tombol Shift dan Panah.
+   * Tekan kombinasi tombol Control + 1 pada keyboard untuk mengubah jarak spasi menjadi rapat atau tunggal, yang biasanya ditandai oleh suara NVDA saat membacakan perubahan format paragraf.
+ * Mengatur Spasi Ganda (2 Baris):
+   * Sorot bagian teks yang memerlukan jarak renggang ganda (biasanya digunakan untuk format penulisan laporan resmi atau skripsi).
+   * Tekan kombinasi tombol Control + 2 pada keyboard untuk menerapkannya secara instan.
+ * Mengatur Spasi 1,5 Baris:
+   * Pilih atau blok paragraf yang ingin diatur jaraknya.
+   * Tekan kombinasi tombol Control + 5 untuk mengaktifkan pengaturan spasi 1,5 baris yang paling sering digunakan dalam dokumen akademik sehari-hari.
