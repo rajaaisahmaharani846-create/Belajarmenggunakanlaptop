@@ -1,0 +1,10 @@
+ * Modul 22: Menyisipkan Penomoran Halaman (Page Numbering)
+Berikut adalah panduan lengkap dan terperinci untuk menambahkan dan mengatur nomor halaman di dalam dokumen Microsoft Word menggunakan kombinasi tombol cepat dan bantuan pembaca layar NVDA:
+ * Membuka Menu Sisip Halaman:
+   * Tekan tombol Alt pada keyboard untuk mengaktifkan fokus ke menu Ribbon.
+   * Tekan huruf N untuk membuka tab Insert (Sisipkan).
+   * Tekan huruf U lalu gunakan tombol Panah untuk memilih posisi nomor halaman (apakah di atas halaman/Top of Page atau di bawah halaman/Bottom of Page), lalu tekan Enter.
+ * Menyesuaikan Format Nomor Halaman:
+   * Di dalam menu Page Number, tekan Tab hingga menemukan opsi Format Page Numbers, lalu tekan Enter.
+   * Gunakan tombol Panah Bawah atau Atas untuk memilih jenis penomoran yang diinginkan (misalnya angka 1, 2, 3 atau huruf romawi i, ii, iii).
+   * Tekan Enter untuk menyimpan pengaturan dan keluar dari menu dialog.
